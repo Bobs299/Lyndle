@@ -8,7 +8,6 @@ export const VALID_GUESSES = [
   'sheep',
   'kevin',
   'betty',
-  'skunk',
   'eagan',
   'marty',
   'timmy',
