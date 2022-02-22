@@ -8,7 +8,6 @@ export const WORDS = [
   'sheep',
   'kevin',
   'betty',
-  'skunk',
   'eagan',
   'marty',
   'timmy',
