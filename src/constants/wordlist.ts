@@ -41,4 +41,5 @@ export const WORDS = [
   'akeem',
   'carbo',
   'riley',
+  'doing',
 ]
