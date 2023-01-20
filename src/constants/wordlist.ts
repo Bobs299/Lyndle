@@ -54,5 +54,5 @@ export const WORDS = [
   'bogey',
   'alina',
   'lizzo',
-  'eagan',
+  '',
 ]
